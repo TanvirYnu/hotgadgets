@@ -1,0 +1,68 @@
+.navbar-brand {
+    margin-right: 750px;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.btn {
+    background-image: linear-gradient(to bottom, #050505 0%, #0c0b0b 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+#see {
+    margin-left: 560px;
+    background-color: transparent;
+    color: orange;
+    border: none;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-img-top {
+    padding-top: 40px;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+
+#sp {
+    margin-bottom: 40px;
+}
+
+.categories-border {
+    text-align: center;
+    border-bottom: orange solid 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 3px;
+}
+
+.bg {
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+.ci {
+    padding: 20px 20px 20px 20px;
+}
+
+.dy {
+    display: block;
+}
